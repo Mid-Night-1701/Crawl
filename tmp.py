@@ -4,7 +4,7 @@ import requests
 
 type_dict = {'thoi-su': ['chinh-tri', 'dan-sinh', 'lao-dong-viec-lam', 'giao-thong', 'mekong', 'quy-hy-vong'],
              'goc-nhin': ['binh-luan-nhieu', 'chinh-tri-chinh-sach', 'y-te-suc-khoe', 'kinh-doanh-quan-tri', 'giao-duc-tri-thuc', 'moi-truong', 'van-hoa-doi-song', 'covid-19', 'tac-gia'],
-             'the-gioi': ['bau-cu-tong-thong-my', 'tu-lieu', 'phan-tich', 'nguoi-viet-5-chau', 'cuoc-song-do-day', 'quan-su'],
+             'the-gioi': ['tu-lieu', 'phan-tich', 'nguoi-viet-5-chau', 'cuoc-song-do-day', 'quan-su'],
              'kinh-doanh': ['net-zero', 'quoc-te', 'doanh-nghiep', 'chung-khoan', 'ebank', 'vi-mo', 'tien-cua-toi', 'hang-hoa'],
              'bat-dong-san': ['chinh-sach', 'thi-truong', 'du-an', 'khong-gian-song', 'tu-van'],
              'khoa-hoc': ['khoa-hoc-trong-nuoc', 'pii-doi-moi-sang-tao', 'tin-tuc', 'phat-minh', 'ung-dung', 'the-gioi-tu-nhien', 'thuong-thuc'],
